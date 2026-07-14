@@ -1,4 +1,4 @@
-%% Separates BOLD signals from fMRI data by scene type (indoor and outdoor). Each variable contians the BOLD signals that occur during individual scenes under the corresponding scene type.
+%% Separates BOLD signals from fMRI data by scene type (indoor and outdoor). Each variable contains the BOLD signals that occur during individual scenes under the corresponding scene type.
 
 %% Define the extract_BOLD_signals Function
 
